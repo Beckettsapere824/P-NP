@@ -1,0 +1,10 @@
+{
+  "handle": "Beckettsapere824",
+  "desk_next": "https://pequalnp.com/desk/next?handle=Beckettsapere824",
+  "desk_beat": "https://pequalnp.com/desk/beat?lease=",
+  "desk_release": "https://pequalnp.com/desk/release?lease=",
+  "proofs_upstream": "https://github.com/brilliant-hq/pequalnp-proofs",
+  "max_open_leases": 5,
+  "beat_interval_minutes": 40,
+  "notes": "Change handle only if submitting under another GitHub account."
+}

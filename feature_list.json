@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "repo": "P-NP",
+  "harness_upstream": "Beckettsapere824/agent-harness",
+  "features": [
+    {
+      "id": "HARNESS-TX",
+      "title": "agent-harness portable core present",
+      "status": "done",
+      "definition_of_done": ["AGENT.md", "skills pack markers", "BOARD.md", "desk config"],
+      "evidence": "2026-11-24 init"
+    },
+    {
+      "id": "SCOUT-1",
+      "title": "First pequalnp status snapshot",
+      "status": "todo",
+      "definition_of_done": ["notes/snapshots/ has dated file with live counts + programs"],
+      "evidence": ""
+    },
+    {
+      "id": "LEAN-1",
+      "title": "One desk lease cycle (claim → attempt or honest release)",
+      "status": "todo",
+      "definition_of_done": ["attempts/ log", "lease released or PR opened"],
+      "evidence": ""
+    },
+    {
+      "id": "ANALYST-1",
+      "title": "Barrier notes for agents",
+      "status": "todo",
+      "definition_of_done": ["notes/barriers.md exists with relativization/natural proofs/algebrization"],
+      "evidence": ""
+    }
+  ]
+}
