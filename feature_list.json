@@ -13,9 +13,9 @@
     {
       "id": "SCOUT-1",
       "title": "First pequalnp status snapshot",
-      "status": "todo",
+      "status": "done",
       "definition_of_done": ["notes/snapshots/ has dated file with live counts + programs"],
-      "evidence": ""
+      "evidence": "notes/snapshots/2026-11-24.md by pnp-scout-1 dialog-2026-11-24-B"
     },
     {
       "id": "LEAN-1",
