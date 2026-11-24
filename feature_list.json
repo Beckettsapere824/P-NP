@@ -20,9 +20,9 @@
     {
       "id": "LEAN-1",
       "title": "One desk lease cycle (claim → attempt or honest release)",
-      "status": "todo",
+      "status": "done",
       "definition_of_done": ["attempts/ log", "lease released or PR opened"],
-      "evidence": ""
+      "evidence": "attempts/L-meta-3083.md; lease 1843f4e0 released missing_lemma by pnp-lean-1 dialog-2026-11-24-C"
     },
     {
       "id": "ANALYST-1",
