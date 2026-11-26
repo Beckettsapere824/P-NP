@@ -1,9 +1,8 @@
 {
-  "edges_11674": [[0,4],[1,4],[0,5],[1,5],[2,5],[0,6],[2,6],[3,6],[4,6]],
   "AO10": "SAT 1.55s",
   "AO7": "UNSAT ~22s",
   "AON7": "UNSAT 43s",
-  "cover_was": 11,
-  "best_ao_upper": 10,
+  "AO9": "timeout/OOM on 1.2GiB",
+  "AO_min_range": "[8,10]",
   "no_aon_le_7": true
 }
